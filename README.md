@@ -12,3 +12,6 @@
   Employed hash maps and optimized data retrieval techniques to enhance system performance, ensuring fast and responsive user interactions.
 # Future Development:
 The project is actively maintained and updated to incorporate new features and enhancements, aiming to provide users with a seamless Instagram-like experience.
+
+# Note: 
+Due to honor code rules or confidentiality agreements, the source code for this project cannot be publicly shared on GitHub. However, if you're interested in learning more about the project or discussing its implementation details, feel free to reach out to me directly.
