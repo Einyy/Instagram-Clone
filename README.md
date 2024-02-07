@@ -5,7 +5,7 @@
 # Database Architecture: 
   Engineered a scalable SQL database system to efficiently organize and manage relational data, ensuring smooth operation even with a large user base.
 # User Interface Development: 
-  Utilized React, HTML/CSS, and JavaScript to craft intuitive and interactive user interfaces, enhancing the user experience and engagement.
+  Utilized Python, React, HTML/CSS, and JavaScript to craft intuitive and interactive user interfaces, enhancing the user experience and engagement.
 # Essential Functionality: 
   Implemented essential features including user authentication, post creation, commenting, liking, and engagement functionalities, mirroring the core features of Instagram.
 # Optimized Performance: 
