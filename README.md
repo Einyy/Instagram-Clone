@@ -1,6 +1,6 @@
 # Instagram-Clone Project
 # Overview:
-  This project is a fully functional Instagram Clone website, developed to replicate the core functionalities of the popular social media platform. Leveraging SQL queries and database management, I architected a dynamic system capable of handling user interactions and content management.
+  This project is a fully functional Instagram Clone website, developed to replicate the core functionalities of the popular social media platform. Leveraging SQL queries and database management, I built a dynamic system capable of handling user interactions and content management.
 # Database Architecture: 
   Engineered a scalable SQL database system to efficiently organize and manage relational data, ensuring smooth operation even with a large user base.
 # User Interface Development: 
